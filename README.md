@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krisssix/krisssix/main/signature_clean.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krisssix/krisssix/main/signature_clean.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/krisssix/krisssix/blob/main/Handwriting.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/krisssix/krisssix/blob/main/Handwriting.svg">
     <img alt="Kristina" src="https://raw.githubusercontent.com/krisssix/krisssix/main/signature_clean.svg" width="630">
   </picture>
 </p>
