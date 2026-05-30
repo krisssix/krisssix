@@ -1,8 +1,4 @@
-<p align="center">
-  <img alt="Kristina signature" src="https://github.com/krisssix/krisssix/blob/main/Handwriting.svg" width="150">
-</p>
-
-<br>
+<div align="center">
 
 <div align="center">
 
@@ -14,9 +10,20 @@
 
 <br>
 
+</div>
+<div align="center">
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://krisssix.github.io/nazarjanova-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristina-nazarjanova/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarjanovak@gmail.com)
+
+<p align="right">
+  <img alt="Kristina signature" src="https://github.com/krisssix/krisssix/blob/main/Handwriting.svg" width="150">
+</p>
+
+<br>
+</div>
 
 </div>
 
