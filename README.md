@@ -14,12 +14,6 @@
 
 
 
-<br>
-
----
-
-<br>
-
 ### 🎨 &nbsp;Design
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
@@ -35,6 +29,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+
+
+
+<br>
+
+---
+
+<br>
 
 
 <div align="center">
