@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/krisssix/krisssix/main/header.svg" width="100%">
+  <img src="https://github.com/krisssix/krisssix/blob/main/header.svg" width="100%">
 </div>
 
 <br>
@@ -19,7 +19,7 @@
 </td>
 <td valign="middle" align="right" width="240">
 
-<img alt="Kristina signature" src="https://raw.githubusercontent.com/krisssix/krisssix/main/signature_clean.svg" width="220">
+<img alt="Kristina signature" src="https://github.com/krisssix/krisssix/blob/main/Handwriting.svg" width="220">
 
 </td>
 </tr>
