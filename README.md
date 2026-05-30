@@ -17,7 +17,7 @@
 </td>
 <td valign="middle" align="right" width="220">
 
-<img alt="Kristina signature" src="https://raw.githubusercontent.com/krisssix/krisssix/main/signature_clean.svg" width="200">
+<img alt="Kristina signature" src="https://github.com/krisssix/krisssix/blob/main/Handwriting.svg" width="200">
 
 </td>
 </tr>
