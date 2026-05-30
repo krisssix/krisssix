@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Kristina signature" src="https://github.com/krisssix/krisssix/blob/main/Handwriting.svg" width="600">
+  <img alt="Kristina signature" src="https://github.com/krisssix/krisssix/blob/main/Handwriting.svg" width="150">
 </p>
 
 <br>
