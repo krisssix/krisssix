@@ -4,10 +4,6 @@
 
 <br>
 
-<table border="0" width="100%">
-<tr>
-<td valign="middle">
-
 *Designing and building digital products from concept to implementation.*
 
 <br>
@@ -16,14 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristina-nazarjanova/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarjanovak@gmail.com)
 
-</td>
-<td valign="middle" align="right" width="240">
 
-<img alt="Kristina signature" src="https://github.com/krisssix/krisssix/blob/main/signature_clean.svg" width="220">
-
-</td>
-</tr>
-</table>
 
 <br>
 
