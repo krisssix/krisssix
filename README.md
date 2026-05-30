@@ -1,4 +1,7 @@
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/krisssix/krisssix/blob/main/HandwritingLight.svg">
+  <img alt="Kristina" src="https://github.com/krisssix/krisssix/blob/main/HandwritingLight.svg">
+</picture>
 
 <div align="center">
 
