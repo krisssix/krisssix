@@ -1,3 +1,155 @@
+<svg width="630" height="469" viewBox="0 0 630 469" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <filter id="neon" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="630" height="469" id="repeat" fill="#fff" opacity="0" display="none">
+    <set attributeName="display" to="inline" begin="animate16.end+0.5s" end="repeat.click;indefinite"/>
+  </rect>
+
+  <g filter="url(#neon)" stroke="#58c4dc" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+
+    <path stroke-dasharray="250 400" stroke-dashoffset="250" visibility="hidden"
+      d="M34.9496 248.239C29.0000 280.000 17.7829 348.906 3.94958 374.239">
+      <set attributeName="visibility" to="visible" begin="0.5s;repeat.click+0.2s" />
+      <animate id="animate1" attributeName="stroke-dashoffset" from="250" to="0"
+        begin="0.5s;repeat.click+0.2s" dur="0.25s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate1.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="350 500" stroke-dashoffset="350" visibility="hidden"
+      d="M34.9496 248.239C47.2021 305.86 62.3459 432.225 42.4496 456.239C32.0000 468.000 15.0000 458.000 7.0000 448.000">
+      <set attributeName="visibility" to="visible" begin="animate1.end" />
+      <animate id="animate2" attributeName="stroke-dashoffset" from="350" to="0"
+        begin="animate1.end" dur="0.35s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate2.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="80 200" stroke-dashoffset="80" visibility="hidden"
+      d="M111.95 241.739C114.95 234.739 113.65 219.739 106.45 219.739C105.283 219.739 102.95 219.939 102.95 220.739">
+      <set attributeName="visibility" to="visible" begin="animate2.end+0.1s" />
+      <animate id="animate3" attributeName="stroke-dashoffset" from="80" to="0"
+        begin="animate2.end+0.1s" dur="0.12s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate3.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="250 400" stroke-dashoffset="250" visibility="hidden"
+      d="M102.95 220.739C82.1496 238.739 77.2829 330.573 77.4496 374.239">
+      <set attributeName="visibility" to="visible" begin="animate3.end" />
+      <animate id="animate4" attributeName="stroke-dashoffset" from="250" to="0"
+        begin="animate3.end" dur="0.25s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate4.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="450 600" stroke-dashoffset="450" visibility="hidden"
+      d="M77.4496 374.239C81.3177 348.394 92.4388 305.341 106.45 336.239C111.782 353.554 113.484 362.891 115.45 379.239C115.685 386.379 119.962 390.217 124.95 390.001C135.086 389.561 141.823 366.678 143.95 349.739C147.023 335.6 152.676 305.874 152.597 291.919">
+      <set attributeName="visibility" to="visible" begin="animate4.end" />
+      <animate id="animate5" attributeName="stroke-dashoffset" from="450" to="0"
+        begin="animate4.end" dur="0.32s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate5.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="100 200" stroke-dashoffset="100" visibility="hidden"
+      d="M152.597 291.919C151.25 276.739 146.95 275.073 144.95 275.739C144.372 278.77 145.32 285.7 152.597 291.919">
+      <set attributeName="visibility" to="visible" begin="animate5.end" />
+      <animate id="animate6" attributeName="stroke-dashoffset" from="100" to="0"
+        begin="animate5.end" dur="0.15s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate6.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="150 300" stroke-dashoffset="150" visibility="hidden"
+      d="M156.45 294.739C164.000 298.000 167.25 301.539 174.283 284.906M174.283 284.906C175.500 281.000 177.000 277.000 178.45 275.739">
+      <set attributeName="visibility" to="visible" begin="animate6.end" />
+      <animate id="animate7" attributeName="stroke-dashoffset" from="150" to="0"
+        begin="animate6.end" dur="0.22s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate7.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="350 500" stroke-dashoffset="350" visibility="hidden"
+      d="M178.45 275.739C175.45 292.906 176.45 275.739 176.45 275.739M210.45 301.239C202.046 336.38 190.352 338.115 184.45 334.239C178.45 332.239 175.45 292.906 176.45 275.739M218.45 241.739C217.892 256.406 215.511 288.839 210.45 301.239">
+      <set attributeName="visibility" to="visible" begin="animate7.end" />
+      <animate id="animate8" attributeName="stroke-dashoffset" from="350" to="0"
+        begin="animate7.end" dur="0.35s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate8.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="30 100" stroke-dashoffset="30" visibility="hidden"
+      d="M217.45 217.501C216.95 218.501 216.25 220.501 217.45 220.501">
+      <set attributeName="visibility" to="visible" begin="animate8.end" />
+      <animate id="animate9" attributeName="stroke-dashoffset" from="30" to="0"
+        begin="animate8.end" dur="0.08s"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate9.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="300 450" stroke-dashoffset="300" visibility="hidden"
+      d="M218.45 241.739C219.45 265.906 224.65 312.539 237.45 305.739C253.45 297.239 284.45 228.739 281.95 183.739">
+      <set attributeName="visibility" to="visible" begin="animate9.end" />
+      <animate id="animate10" attributeName="stroke-dashoffset" from="300" to="0"
+        begin="animate9.end" dur="0.28s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate10.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="300 450" stroke-dashoffset="300" visibility="hidden"
+      d="M281.95 183.739C283.599 184.698 299.349 200.397 306.95 210.739C312.616 218.906 321.05 239.239 309.45 255.239C297.85 271.239 287.616 260.239 283.95 252.739">
+      <set attributeName="visibility" to="visible" begin="animate10.end" />
+      <animate id="animate11" attributeName="stroke-dashoffset" from="300" to="0"
+        begin="animate10.end" dur="0.28s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate11.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="100 200" stroke-dashoffset="100" visibility="hidden"
+      d="M313.45 171.739L353.95 140.739">
+      <set attributeName="visibility" to="visible" begin="animate11.end+0.05s" />
+      <animate id="animate12" attributeName="stroke-dashoffset" from="100" to="0"
+        begin="animate11.end+0.05s" dur="0.15s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate12.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="400 600" stroke-dashoffset="400" visibility="hidden"
+      d="M329.45 75.2392C327.783 126.406 328.95 228.339 346.95 226.739C364.95 225.139 378.116 158.739 382.45 125.739">
+      <set attributeName="visibility" to="visible" begin="animate12.end" />
+      <animate id="animate13" attributeName="stroke-dashoffset" from="400" to="0"
+        begin="animate12.end" dur="0.35s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate13.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="350 500" stroke-dashoffset="350" visibility="hidden"
+      d="M382.45 125.739C381.45 166.073 385.95 234.639 411.95 186.239C416.401 176.374 423.573 154.155 439.95 101.739C443.783 90.7392 452.45 72.0392 456.45 85.2392">
+      <set attributeName="visibility" to="visible" begin="animate13.end" />
+      <animate id="animate14" attributeName="stroke-dashoffset" from="350" to="0"
+        begin="animate13.end" dur="0.32s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate14.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="30 100" stroke-dashoffset="30" visibility="hidden"
+      d="M382.45 106.001C381.95 107.001 381.25 109.001 382.45 109.001">
+      <set attributeName="visibility" to="visible" begin="animate14.end" />
+      <animate id="animate15" attributeName="stroke-dashoffset" from="30" to="0"
+        begin="animate14.end" dur="0.08s"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate15.end" end="repeat.click;indefinite"/>
+    </path>
+
+    <path stroke-dasharray="700 900" stroke-dashoffset="700" visibility="hidden"
+      d="M458.649 113.239C464.416 91.9059 476.45 66.7392 485.95 66.7392C495.45 66.7392 490.2 85.2392 490.2 98.7392C490.2 112.239 489.95 122.739 492.45 131.501C494.95 140.262 500.25 143.339 513.45 125.739C526.65 108.139 538.95 64.4059 543.45 44.7392C547.95 23.9059 561.35 -11.6608 578.95 12.7392C578.95 21.2005 578.388 32.7012 576.9 44.7392M543.45 44.7392C537.616 69.0726 531.25 115.039 552.45 104.239C566.75 96.9539 573.816 69.6922 576.9 44.7392M576.9 44.7392C577.917 57.0726 583.05 79.3392 595.45 69.7392C607.85 60.1392 620.616 32.4059 625.45 19.7392">
+      <set attributeName="visibility" to="visible" begin="animate15.end" />
+      <animate id="animate16" attributeName="stroke-dashoffset" from="700" to="0"
+        begin="animate15.end" dur="0.55s" keyTimes="0;1" calcMode="spline" keySplines=".12,0,.39,0;"/>
+      <set attributeName="stroke-dashoffset" to="0" begin="animate16.end" end="repeat.click;indefinite"/>
+    </path>
+
+  </g>
+
+</svg>
+
 <div align="center">
 
 # Kristina Nazarjanová
