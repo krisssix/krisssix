@@ -1,8 +1,8 @@
-<div align="center">
+<table border="0" width="100%">
+<tr>
+<td valign="middle">
 
-<div align="center">
-
-# Kristina Nazarjanová
+## Kristina Nazarjanová
 
 **Product Designer · UX/UI Designer · Full Stack Developer**
 
@@ -10,22 +10,18 @@
 
 <br>
 
-</div>
-<div align="center">
-
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://krisssix.github.io/nazarjanova-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristina-nazarjanova/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarjanovak@gmail.com)
 
-<p align="right">
-  <img alt="Kristina signature" src="https://github.com/krisssix/krisssix/blob/main/Handwriting.svg" width="150">
-</p>
+</td>
+<td valign="middle" align="right" width="220">
 
-<br>
-</div>
+<img alt="Kristina signature" src="https://raw.githubusercontent.com/krisssix/krisssix/main/signature_clean.svg" width="200">
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
