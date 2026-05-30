@@ -1,10 +1,12 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/krisssix/krisssix/main/header.svg" width="100%">
+</div>
+
+<br>
+
 <table border="0" width="100%">
 <tr>
 <td valign="middle">
-
-## Kristina Nazarjanová
-
-**Product Designer · UX/UI Designer · Full Stack Developer**
 
 *Designing and building digital products from concept to implementation.*
 
@@ -15,9 +17,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarjanovak@gmail.com)
 
 </td>
-<td valign="middle" align="right" width="220">
+<td valign="middle" align="right" width="240">
 
-<img alt="Kristina signature" src="https://github.com/krisssix/krisssix/blob/main/Handwriting.svg" width="200">
+<img alt="Kristina signature" src="https://raw.githubusercontent.com/krisssix/krisssix/main/signature_clean.svg" width="220">
 
 </td>
 </tr>
@@ -45,7 +47,25 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 
+<br>
 
+---
+
+<br>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=krisssix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58c4dc&icon_color=58c4dc&text_color=ffffff&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisssix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58c4dc&text_color=ffffff" />
+
+</div>
+
+<br>
+
+---
+
+<br>
 
 <div align="center">
   <sub>✦ &nbsp; open to collaborations &nbsp; ✦</sub>
