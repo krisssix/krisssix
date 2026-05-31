@@ -1,13 +1,4 @@
 <div align="center">
-  <img src="https://github.com/krisssix/krisssix/blob/main/header.svg" width="100%">
-</div>
-
-<br>
-
-*Designing and building digital products from concept to implementation.*
-
-<br>
-<div align="center">
   <img src="https://github.com/krisssix/krisssix/blob/main/header.svg" width="100%" />
 </div>
 
@@ -39,13 +30,4 @@ Designing and building digital products from concept to implementation.
 
 <div align="center">
   <sub>Open to collaborations ✦</sub>
-</div>
-
----
-
-<br>
-
-
-<div align="center">
-  <sub>✦ &nbsp; open to collaborations &nbsp; ✦</sub>
 </div>
