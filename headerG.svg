@@ -105,7 +105,7 @@ text { font-family:'Mono', ui-monospace, monospace; }
 <!-- role pill -->
 <g class="r d5">
   <rect x="295.0" y="440" width="690" height="44" rx="22" fill="rgba(255,255,255,.03)" stroke="rgba(120,200,210,.25)"/>
-  <text x="650.0" y="468" text-anchor="middle" font-size="18" fill="#bcd0da" letter-spacing=".5">Product Designer&#160;&#160;&#183;&#160;&#160;UX/UI Designer&#160;&#160;&#183;&#160;&#160;Full Stack Developer</text>
+  <text x="620.0" y="468" text-anchor="middle" font-size="18" fill="#bcd0da" letter-spacing=".5">Product Designer&#160;&#160;&#183;&#160;&#160;UX/UI Designer&#160;&#160;&#183;&#160;&#160;Full Stack Developer</text>
 </g>
 
 <!-- tagline -->
