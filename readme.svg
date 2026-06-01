@@ -92,9 +92,7 @@ text { font-family:'Mono', ui-monospace, monospace; }
   <circle cx="62" cy="59" r="5" fill="#5eead4"/>
   <text x="80" y="64" class="name" font-size="22" fill="#eaf2f6" letter-spacing="-.5">krisssix</text>
 </g>
-<g class="f d2"><g class="navbtn"><rect x="1148.9" y="44.0" width="71.1" height="30" rx="8" class="navbox navbox-acc"/><text x="1184.4" y="63.7" text-anchor="middle" class="navtxt navtxt-acc">EMAIL</text></g>
-<g class="navbtn"><rect x="1042.3" y="44.0" width="94.6" height="30" rx="8" class="navbox"/><text x="1089.6" y="63.7" text-anchor="middle" class="navtxt">LINKEDIN</text></g>
-<g class="navbtn"><rect x="927.8" y="44.0" width="102.4" height="30" rx="8" class="navbox"/><text x="979.0" y="63.7" text-anchor="middle" class="navtxt">PORTFOLIO</text></g></g>
+
 
 <!-- name -->
 <g class="r d3"><text x="640.0" y="268" text-anchor="middle" class="name" font-size="118" fill="url(#nameg)">Kristina</text></g>
