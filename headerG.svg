@@ -105,7 +105,7 @@ text { font-family:'Mono', ui-monospace, monospace; }
 <!-- role pill -->
 <g class="r d5">
   <rect x="295.0" y="440" width="690" height="44" rx="22" fill="rgba(255,255,255,.03)" stroke="rgba(120,200,210,.25)"/>
-  <text x="640.0" y="468" text-anchor="middle" font-size="18" fill="#bcd0da" letter-spacing=".5">Product Designer&#160;&#160;&#183;&#160;&#160;UX/UI Designer&#160;&#160;&#183;&#160;&#160;Full Stack Developer</text>
+  <text x="650.0" y="468" text-anchor="middle" font-size="18" fill="#bcd0da" letter-spacing=".5">Product Designer&#160;&#160;&#183;&#160;&#160;UX/UI Designer&#160;&#160;&#183;&#160;&#160;Full Stack Developer</text>
 </g>
 
 <!-- tagline -->
@@ -113,17 +113,17 @@ text { font-family:'Mono', ui-monospace, monospace; }
 
 <!-- skills -->
 <g class="r d6"><text x="367.1" y="573.0" class="seclbl">DESIGN</text>
-<g class="pill"><rect x="456.0" y="558.0" width="90.2" height="34.0" rx="17.0" class="pillbox"/><text x="501.1" y="573.0" text-anchor="middle" class="pilltxt">Figma</text></g>
-<g class="pill"><rect x="560.2" y="558.0" width="101.0" height="34.0" rx="17.0" class="pillbox"/><text x="610.7" y="573.0" text-anchor="middle" class="pilltxt">Framer</text></g>
-<g class="pill"><rect x="675.2" y="558.0" width="101.0" height="34.0" rx="17.0" class="pillbox"/><text x="725.7" y="573.0" text-anchor="middle" class="pilltxt">Sketch</text></g>
-<g class="pill"><rect x="790.2" y="558.0" width="122.7" height="34.0" rx="17.0" class="pillbox"/><text x="851.6" y="573.0" text-anchor="middle" class="pilltxt">Adobe XD</text></g></g>
+<g class="pill"><rect x="456.0" y="558.0" width="90.2" height="34.0" rx="17.0" class="pillbox"/><text x="501.1" y="580.0" text-anchor="middle" class="pilltxt">Figma</text></g>
+<g class="pill"><rect x="560.2" y="558.0" width="101.0" height="34.0" rx="17.0" class="pillbox"/><text x="610.7" y="580.0" text-anchor="middle" class="pilltxt">Framer</text></g>
+<g class="pill"><rect x="675.2" y="558.0" width="101.0" height="34.0" rx="17.0" class="pillbox"/><text x="725.7" y="580.0" text-anchor="middle" class="pilltxt">Sketch</text></g>
+<g class="pill"><rect x="790.2" y="558.0" width="122.7" height="34.0" rx="17.0" class="pillbox"/><text x="851.6" y="580.0" text-anchor="middle" class="pilltxt">Adobe XD</text></g></g>
 <g class="r d7"><text x="178.3" y="638.0" class="seclbl">DEVELOPMENT</text>
-<g class="pill"><rect x="306.4" y="623.0" width="144.4" height="34.0" rx="17.0" class="pillbox"/><text x="378.6" y="638.0" text-anchor="middle" class="pilltxt">TypeScript</text></g>
-<g class="pill"><rect x="464.8" y="623.0" width="90.2" height="34.0" rx="17.0" class="pillbox"/><text x="509.8" y="638.0" text-anchor="middle" class="pilltxt">React</text></g>
-<g class="pill"><rect x="568.9" y="623.0" width="111.9" height="34.0" rx="17.0" class="pillbox"/><text x="624.9" y="638.0" text-anchor="middle" class="pilltxt">Next.js</text></g>
-<g class="pill"><rect x="694.8" y="623.0" width="111.9" height="34.0" rx="17.0" class="pillbox"/><text x="750.7" y="638.0" text-anchor="middle" class="pilltxt">Node.js</text></g>
-<g class="pill"><rect x="820.6" y="623.0" width="166.0" height="34.0" rx="17.0" class="pillbox"/><text x="903.7" y="638.0" text-anchor="middle" class="pilltxt">Tailwind CSS</text></g>
-<g class="pill"><rect x="1000.7" y="623.0" width="101.0" height="34.0" rx="17.0" class="pillbox"/><text x="1051.2" y="638.0" text-anchor="middle" class="pilltxt">Prisma</text></g></g>
+<g class="pill"><rect x="306.4" y="623.0" width="144.4" height="34.0" rx="17.0" class="pillbox"/><text x="378.6" y="645.0" text-anchor="middle" class="pilltxt">TypeScript</text></g>
+<g class="pill"><rect x="464.8" y="623.0" width="90.2" height="34.0" rx="17.0" class="pillbox"/><text x="509.8" y="645.0" text-anchor="middle" class="pilltxt">React</text></g>
+<g class="pill"><rect x="568.9" y="623.0" width="111.9" height="34.0" rx="17.0" class="pillbox"/><text x="624.9" y="645.0" text-anchor="middle" class="pilltxt">Next.js</text></g>
+<g class="pill"><rect x="694.8" y="623.0" width="111.9" height="34.0" rx="17.0" class="pillbox"/><text x="750.7" y="645.0" text-anchor="middle" class="pilltxt">Node.js</text></g>
+<g class="pill"><rect x="820.6" y="623.0" width="166.0" height="34.0" rx="17.0" class="pillbox"/><text x="903.7" y="645.0" text-anchor="middle" class="pilltxt">Tailwind CSS</text></g>
+<g class="pill"><rect x="1000.7" y="623.0" width="101.0" height="34.0" rx="17.0" class="pillbox"/><text x="1051.2" y="645.0" text-anchor="middle" class="pilltxt">Prisma</text></g></g>
 
 <rect width="1280" height="720" fill="url(#vig)" pointer-events="none"/>
 </svg>
