@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./readme.svg" width="100%" alt="Kristina Nazarjanová" />
+  <img src="./headerG.svg" width="100%" alt="Kristina Nazarjanová" />
   <div align="center">
   <a href="https://krisssix.github.io/nazarjanova-portfolio/"><img src="./btn-portfolio.svg" height="40" alt="Portfolio" /></a>
   &nbsp;&nbsp;
