@@ -123,7 +123,7 @@ text { font-family:'Mono', ui-monospace, monospace; }
 </g>
 <g class="r d7"><text x="155.3" y="645.0" class="seclbl">DEVELOPMENT</text>
 <g class="pill"><rect x="306.4" y="623.0" width="144.4" height="34.0" rx="17.0" class="pillbox"/><text x="378.6" y="645.0" text-anchor="middle" class="pilltxt">TypeScript</text></g>
-<g class="pill"><rect x="464.8" y="623.0" width="90.2" height="34.0" rx="17.0" class="pillbox"/><text x="509.8" y="645.0" text-anchor="middle" class="pilltxt">Vue / React</text></g>
+<g class="pill"><rect x="464.8" y="623.0" width="90.2" height="34.0" rx="17.0" class="pillbox"/><text x="509.8" y="645.0" text-anchor="middle" class="pilltxt">Vue</text></g>
 <g class="pill"><rect x="568.9" y="623.0" width="111.9" height="34.0" rx="17.0" class="pillbox"/><text x="624.9" y="645.0" text-anchor="middle" class="pilltxt">Next.js</text></g>
 <g class="pill"><rect x="694.8" y="623.0" width="111.9" height="34.0" rx="17.0" class="pillbox"/><text x="750.7" y="645.0" text-anchor="middle" class="pilltxt">Node.js</text></g>
 <g class="pill"><rect x="820.6" y="623.0" width="85.0" height="34.0" rx="17.0" class="pillbox"/><text x="863.7" y="645.0" text-anchor="middle" class="pilltxt">Python</text></g>
